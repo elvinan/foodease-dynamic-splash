@@ -1,0 +1,26 @@
+{
+  "name": "react-native-dynamic-splash",
+  "version": "1.1.2",
+  "description": "dynamic display splash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TaumuLu",
+  "license": "ISC",
+  "keywords": [
+    "react-native",
+    "splash",
+    "advertising screen",
+    "dynamic",
+    "download"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaumuLu/react-native-dynamic-splash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TaumuLu/react-native-dynamic-splash/issues"
+  },
+  "homepage": "https://github.com/TaumuLu/react-native-dynamic-splash#readme"
+}

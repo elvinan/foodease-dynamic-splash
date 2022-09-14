@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id dynamicSplash_id
+layout splash_dynamic
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap launch_screen
+string app_name
+style DynamicSplash_Animation
+style DynamicSplash_Fullscreen
+style DynamicSplash_Theme
